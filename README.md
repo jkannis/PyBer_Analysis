@@ -18,7 +18,7 @@ The results of this analysis show a large disparity between Urban, Suburban and 
 ## Summary
 ![Fare Summary](https://github.com/jkannis/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-It is clear that the highest usage of ride sharing services in in urban areas. 
+It is clear that the highest usage of ride sharing services is in urban areas. 
 ![Total Fares by City Type](https://github.com/jkannis/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
 ![Total Rides by City Type](https://github.com/jkannis/PyBer_Analysis/blob/main/analysis/Fig6.png)
